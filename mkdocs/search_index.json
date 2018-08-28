@@ -2,23 +2,23 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "\u0414\u043e\u043c"
+            "text": "\u041d\u0430\u0447\u0430\u043b\u044c\u043d\u0430\u044f \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430 \u0437\u0430\u043c\u0435\u0442\u043e\u043a\n\n\n\u0420\u0430\u0437\u043d\u044b\u0435 \u0437\u0430\u043c\u0435\u0442\u043a\u0438 \u0447\u0442\u043e\u0431\u044b \u043d\u0435 \u0437\u0430\u0431\u044b\u0442\u044c",
+            "title": "\u041d\u0430\u0447\u0430\u043b\u043e"
         },
         {
-            "location": "/#welcome-to-mkdocs",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Welcome to MkDocs"
+            "location": "/#_1",
+            "text": "",
+            "title": "\u041d\u0430\u0447\u0430\u043b\u044c\u043d\u0430\u044f \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430 \u0437\u0430\u043c\u0435\u0442\u043e\u043a"
         },
         {
-            "location": "/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
+            "location": "/#_2",
+            "text": "",
+            "title": "\u0420\u0430\u0437\u043d\u044b\u0435 \u0437\u0430\u043c\u0435\u0442\u043a\u0438 \u0447\u0442\u043e\u0431\u044b \u043d\u0435 \u0437\u0430\u0431\u044b\u0442\u044c"
         },
         {
-            "location": "/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
+            "location": "/house_keeper/",
+            "text": "[\u0420\u0430\u0437\u0431\u043e\u0440\u043a\u0430 \u0438 \u0440\u0435\u043c\u043e\u043d\u0442 \u0443\u0442\u044e\u0433\u0430 Tefal FV5176] (http://gertc.com/rabota-offline/razborka-i-remont-utyuga-tefal-fv5176.html)\n\u041a\u0430\u043a \u043f\u043e\u0447\u0438\u0441\u0442\u0438\u0442\u044c \u0443\u0442\u044e\u0433 (http://hozobzor.ru/tehnika/kak-pochistit-utyug-ot-nakipi.html)",
+            "title": "\u0414\u043e\u043c\u0430\u0448\u043d\u0435\u0435 \u0445\u043e\u0437\u044f\u0439\u0441\u0442\u0432\u043e"
         }
     ]
 }
