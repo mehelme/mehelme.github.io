@@ -1,0 +1,5 @@
+site_name: mehelme docs
+dev_addr: 127.0.0.1:9000
+pages:
+    - Дом: index.md
+theme: readthedocs
