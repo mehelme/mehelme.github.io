@@ -1,5 +1,9 @@
-site_name: mehelme docs
+site_name: Заметки
 dev_addr: 127.0.0.1:9000
-pages:
-    - Дом: index.md
-theme: readthedocs
+nav:
+    - Начало: index.md
+    - Домашнее хозяйство: house_keeper.md
+
+theme:
+  name: 'material'
+  language: 'ru'
