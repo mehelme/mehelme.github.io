@@ -2,8 +2,18 @@ site_name: Заметки
 dev_addr: 127.0.0.1:9000
 nav:
     - Начало: index.md
+    - Документация: docs.md
+    - Картинки: pics.md
     - Домашнее хозяйство: house_keeper.md
 
 theme:
   name: 'material'
   language: 'ru'
+  palette:
+    primary: 'blue grey'
+    accent: 'purple'
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
+  logo: '/images/baseline-bookmark_border-24px.svg'
+  favicon: '/images/baseline-bookmark_border-24px.svg'
