@@ -2,11 +2,14 @@ site_name: Заметки
 dev_addr: 127.0.0.1:9000
 nav:
     - Начало: index.md
+    - Безопасность: secur.md
     - Документация: docs.md
     - Картинки: pics.md
+    - Популярная наука: pop_sciense.md
     - Домашнее хозяйство: house_keeper.md
 
 theme:
+  custom_dir: 'theme'
   name: 'material'
   language: 'ru'
   palette:
