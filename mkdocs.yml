@@ -2,11 +2,17 @@ site_name: Заметки
 dev_addr: 127.0.0.1:9000
 nav:
     - Начало: index.md
+    - Разработка: devel.md
+    - Андроид: android.md
+    - Баш: bash.md
+    - Баги: bugs.md
     - Безопасность: secur.md
     - Документация: docs.md
+    - Железо: hard.md
     - Картинки: pics.md
     - Популярная наука: pop_sciense.md
     - Домашнее хозяйство: house_keeper.md
+    - Юмор: humor.md
 
 theme:
   custom_dir: 'theme'
