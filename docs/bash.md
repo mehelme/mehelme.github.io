@@ -1,14 +1,16 @@
 # Bash 
 
-Печать перевода строки: printf "hello\nworld\n"
-Замена перевода строк на пробел: tr '\n' ' ' 
-Проверка строки на число:  if [ "$var" -eq "$var" ] 2>/dev/null; then;  echo number; else;  echo not a number; fi
-Сравнение чисел: if (( a > b )); then ... для старых if [ "$a" -gt "$b" ]; then ...
-Деление: echo $((x / y))
+## Команды
+Печать перевода строки: <code>printf "hello\nworld\n"</code></br>
+Замена перевода строк на пробел: <code>tr '\n' ' ' </code></br>
+Проверка строки на число:  <code>if [ "$var" -eq "$var" ] 2>/dev/null; then; echo IS NIMBER fi</code></br>
+Сравнение чисел: <code>if (( a > b )); then ... if [ "$a" -gt "$b" ]; then ...</code></br>
+Деление: <code>echo $((x / y))</code></br>
 
-Monitor a file with tail with timestamps added http://www.commandlinefu.com/commands/view/7156/monitor-a-file-with-tail-with-timestamps-added
-lower UPPER case convert http://stackoverflow.com/questions/2264428/converting-string-to-lower-case-in-bash-shell-scripting
-string padding http://stackoverflow.com/questions/4409399/padding-characters-in-printf
-все аргументы http://stackoverflow.com/questions/12314451/accessing-bash-command-line-args-vs
-удаленно запустить локальный скрипт http://stackoverflow.com/questions/305035/how-to-use-ssh-to-run-a-shell-script-on-a-remote-machine
-Simple logical operators in Bash https://stackoverflow.com/questions/6270440/simple-logical-operators-in-bash
+## Статьи
+Monitor a file with tail with timestamps added [&#128279;](http://www.commandlinefu.com/commands/view/7156/monitor-a-file-with-tail-with-timestamps-added)</br>
+lower UPPER case convert [&#128279;](http://stackoverflow.com/questions/2264428/converting-string-to-lower-case-in-bash-shell-scripting)</br>
+String padding [&#128279;](http://stackoverflow.com/questions/4409399/padding-characters-in-printf)</br>
+Все аргументы "$@ vs $*" [&#128279;](http://stackoverflow.com/questions/12314451/accessing-bash-command-line-args-vs)</br>
+Удаленно запустить локальный скрипт [&#128279;](http://stackoverflow.com/questions/305035/how-to-use-ssh-to-run-a-shell-script-on-a-remote-machine)</br>
+Simple logical operators in Bash [&#128279;](https://stackoverflow.com/questions/6270440/simple-logical-operators-in-bash)</br>

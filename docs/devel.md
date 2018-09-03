@@ -6,7 +6,7 @@
 Охота на мифический MVC. Обзор, возвращение к первоисточникам [&#128279;](https://habrahabr.ru/post/321050/) </br>
 
 ## Git
-Интересные проекты github [&#128279;](https://github.com/mehelme?tab=stars) </br>
+Звезданутые проекты github [&#128279;](https://github.com/mehelme?tab=stars) </br>
 Git снизу вверх [&#128279;](https://habrahabr.ru/company/intel/blog/344962/) </br>
 
 ## Qt

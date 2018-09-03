@@ -2,6 +2,7 @@ site_name: Заметки
 dev_addr: 127.0.0.1:9000
 nav:
     - Начало: index.md
+    - Linux: linux.md
     - Разработка: devel.md
     - Андроид: android.md
     - Баш: bash.md
