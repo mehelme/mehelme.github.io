@@ -12,8 +12,9 @@ nav:
     - Железо: hard.md
     - Картинки: pics.md
     - Популярная наука: pop_sciense.md
-    - Домашнее хозяйство: house_keeper.md
+    - Шахматы: chess.md
     - Юмор: humor.md
+    - Домовой: house_keeper.md
 
 theme:
   custom_dir: 'theme'

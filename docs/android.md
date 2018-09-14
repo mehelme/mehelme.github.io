@@ -8,7 +8,23 @@
 Получить контакты:<code>content query --uri content://contacts/phones --projection number:name --sort "name ASC"| awk -F= '{gsub(/[-() name]/,"",$2);print $2" "$3}'</code></br>
 
 ## Статьи
-Решение проблемы быстрого расхода батареи на Android из-за процесса MediaServer [&#128279;](https://ekorshunov.blogspot.ru/2015/02/android-mediaserver.html)
-Скрипты на shell под Android 4pda [&#128279;](https://4pda.ru/forum/index.php?showtopic=508427)
-Freeing my tablet (Android hacking, SW and HW) [&#128279;](https://www.thanassis.space/android.html)
-Ломаем Android. Как глубока кроличья нора? [&#128279;](https://habrahabr.ru/post/320150/>)
+Решение проблемы быстрого расхода батареи из-за MediaServer [&#128279;](https://ekorshunov.blogspot.ru/2015/02/android-mediaserver.html)</br>
+Скрипты на shell под Android 4pda [&#128279;](https://4pda.ru/forum/index.php?showtopic=508427)</br>
+Freeing my tablet (Android hacking, SW and HW) [&#128279;](https://www.thanassis.space/android.html)</br>
+Ломаем Android. Как глубока кроличья нора? [&#128279;](https://habrahabr.ru/post/320150/>)</br>
+Cохранение фото на SD карту [&#128279;](https://opencamera.sourceforge.io/help.html)</br>
+
+
+## Удаление системных приложений 
+Тема 4pda [&#128279;](http://4pda.ru/forum/index.php?showtopic=236256) </br>
+```
+setenforce 0
+mount -o rw,remount /system
+mount -o rw,remount /
+pm list packages -f
+rm /system/app/YouTube.apk  
+pm uninstall com.android.mms
+for p in `pm list package | awk -F"package:" '{print $2}'`; do echo -n "$p: "; dumpsys package $p | grep -i versionName | awk -F"=" '{print $2}'; done
+/system/priv-app/
+/system/vendor/operator/app/
+```
