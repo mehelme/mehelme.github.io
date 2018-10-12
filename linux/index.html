@@ -221,6 +221,20 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#_1" title="Команды" class="md-nav__link">
+    Команды
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_2" title="Статьи" class="md-nav__link">
+    Статьи
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#kubuntu-1804" title="Установка и настройка kubuntu 1804" class="md-nav__link">
     Установка и настройка kubuntu 1804
   </a>
@@ -244,6 +258,18 @@
 
 
   <li class="md-nav__item">
+    <a href="../bash/" title="Bush" class="md-nav__link">
+      Bush
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
     <a href="../devel/" title="Разработка" class="md-nav__link">
       Разработка
     </a>
@@ -258,18 +284,6 @@
   <li class="md-nav__item">
     <a href="../android/" title="Андроид" class="md-nav__link">
       Андроид
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../bash/" title="Баш" class="md-nav__link">
-      Баш
     </a>
   </li>
 
@@ -352,8 +366,8 @@
 
 
   <li class="md-nav__item">
-    <a href="../house_keeper/" title="Домашнее хозяйство" class="md-nav__link">
-      Домашнее хозяйство
+    <a href="../chess/" title="Шахматы" class="md-nav__link">
+      Шахматы
     </a>
   </li>
 
@@ -366,6 +380,30 @@
   <li class="md-nav__item">
     <a href="../humor/" title="Юмор" class="md-nav__link">
       Юмор
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../windows/" title="Windows" class="md-nav__link">
+      Windows
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../house_keeper/" title="Домовой" class="md-nav__link">
+      Домовой
     </a>
   </li>
 
@@ -389,6 +427,20 @@
   
     <label class="md-nav__title" for="__toc">Содержание</label>
     <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_1" title="Команды" class="md-nav__link">
+    Команды
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_2" title="Статьи" class="md-nav__link">
+    Статьи
+  </a>
+  
+</li>
       
         <li class="md-nav__item">
   <a href="#kubuntu-1804" title="Установка и настройка kubuntu 1804" class="md-nav__link">
@@ -415,6 +467,15 @@
                 
                 
                 <h1 id="linux">Linux</h1>
+<h2 id="_1">Команды</h2>
+<p>Сервисы: <code>systemctl list-units --type service</code> <code>sudo systemctl disable apache</code></br>
+Перезапуск сети: <code>sudo nmcli networking off &amp;&amp; sudo nmcli networking on</code></p>
+<h2 id="_2">Статьи</h2>
+<p>PostgreSQL 10 on Ubuntu 16.04 <a href="https://tecadmin.net/install-postgresql-server-on-ubuntu/">&#128279;</a> </br>
+ssh sudo: no tty present and no askpass program specified <a href="https://stackoverflow.com/questions/21659637/how-to-fix-sudo-no-tty-present-and-no-askpass-program-specified-error">&#128279;</a> </br>
+How to record output to speakers <a href="https://askubuntu.com/questions/229352/how-to-record-output-to-speakers">&#128279;</a> </br>
+Шифрование диска <a href="https://stackoverflow.com/questions/19713918/how-to-load-luks-passphrase-from-usb-falling-back-to-keyboard">&#128279;</a> <a href="https://gist.github.com/martijnvermaat/2726386">&#128279;</a> </br>
+Отправка почты из командной строки <a href="https://blog.edmdesigner.com/send-email-from-linux-command-line/">&#128279;</a> <a href="https://sites.google.com/site/admcrib/home/ssmtp-nastrojka-dla-yandex-ru">&#128279;</a> </br></p>
 <h2 id="kubuntu-1804">Установка и настройка kubuntu 1804</h2>
 <ol>
 <li>Настройка статический ip</li>
@@ -423,7 +484,7 @@
 <li>Настройки в центре настроек kde: убрана анимация, раскладка, шрифт, рабочие столы, убран поиск plasma, выкл бумажник, пути на eng, выкл эффектов, автомонтирование usb флешек</li>
 <li>/etc/default/locale LC_MESSAGES="C"</li>
 <li>/etc/polkit-1/localauthority/50-local.d/com.ubuntu.enable-hibernate.pkla (для нормальной работы загрузчик должен грузится из bios, не через другой )</li>
-<li>установка дров nvidia, почему то сразу не встало, нужно в консоле sudo dpkg --configure -a</li>
+<li>установка дров nvidia, почему то сразу не встало, нужно в консоле <code>sudo dpkg --configure -a</code> см. <a href="https://linuxconfig.org/how-to-install-the-nvidia-drivers-on-ubuntu-18-04-bionic-beaver-linux">&#128279;</a></li>
 <li>монтирование дисков других</li>
 <li>thunderbird</li>
 <li>ссылки на каталоге из andrey</li>
@@ -477,13 +538,13 @@
           </a>
         
         
-          <a href="../devel/" title="Разработка" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+          <a href="../bash/" title="Bush" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
             <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
               <span class="md-flex__ellipsis">
                 <span class="md-footer-nav__direction">
                   Вперед
                 </span>
-                Разработка
+                Bush
               </span>
             </div>
             <div class="md-flex__cell md-flex__cell--shrink">
