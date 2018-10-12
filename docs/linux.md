@@ -1,5 +1,16 @@
 # Linux
 
+## Команды
+Сервисы: ``systemctl list-units --type service`` ``sudo systemctl disable apache``</br>
+Перезапуск сети: ``sudo nmcli networking off && sudo nmcli networking on``
+
+## Статьи
+PostgreSQL 10 on Ubuntu 16.04 [&#128279;](https://tecadmin.net/install-postgresql-server-on-ubuntu/) </br>
+ssh sudo: no tty present and no askpass program specified [&#128279;](https://stackoverflow.com/questions/21659637/how-to-fix-sudo-no-tty-present-and-no-askpass-program-specified-error) </br>
+How to record output to speakers [&#128279;](https://askubuntu.com/questions/229352/how-to-record-output-to-speakers) </br>
+Шифрование диска [&#128279;](https://stackoverflow.com/questions/19713918/how-to-load-luks-passphrase-from-usb-falling-back-to-keyboard) [&#128279;](https://gist.github.com/martijnvermaat/2726386) </br>
+Отправка почты из командной строки [&#128279;](https://blog.edmdesigner.com/send-email-from-linux-command-line/) [&#128279;](https://sites.google.com/site/admcrib/home/ssmtp-nastrojka-dla-yandex-ru) </br>
+
 ## Установка и настройка kubuntu 1804
 1. Настройка статический ip
 1. Установка mc (конфиги)

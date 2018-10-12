@@ -3,9 +3,9 @@ dev_addr: 127.0.0.1:9000
 nav:
     - Начало: index.md
     - Linux: linux.md
+    - Bush: bash.md
     - Разработка: devel.md
     - Андроид: android.md
-    - Баш: bash.md
     - Баги: bugs.md
     - Безопасность: secur.md
     - Документация: docs.md
@@ -14,6 +14,7 @@ nav:
     - Популярная наука: pop_sciense.md
     - Шахматы: chess.md
     - Юмор: humor.md
+    - Windows: windows.md
     - Домовой: house_keeper.md
 
 theme:

@@ -25,6 +25,7 @@ libboost-all-dev libboost-all-dev
 Разработка MapReduce в Qt Concurrent  [&#128279;](https://habrahabr.ru/post/311090/) </br>
 Встраивание программы в окно приложения qt  [&#128279;](https://www.linux.org.ru/forum/development/12400079) </br>
 QtQuick/QML в качестве игрового UI [&#128279;](https://habrahabr.ru/post/303722/) </br>
+How Qt Signals and Slots Work [&#128279;](https://woboq.com/blog/how-qt-signals-slots-work.html) [&#128279;](https://woboq.com/blog/how-qt-signals-slots-work-part2-qt5.html) [&#128279;](https://woboq.com/blog/how-qt-signals-slots-work-part3-queuedconnection.html) </br>
 
 
 ## Android
@@ -69,7 +70,12 @@ Adding-a-driver-to-a-UEFI-firmware [&#128279;](https://github.com/pbatard/efifs/
 Особенности протокола в IO-играх [&#128279;](https://habrahabr.ru/post/323466/) </br>
 Как я сделал самый быстрый ресайз изображений [&#128279;](https://habrahabr.ru/post/321744/) </br>
 В ГОСТе сидел «Кузнечик» [&#128279;](https://habrahabr.ru/post/266359/) </br>
-Безопасное криптопрограммирование [&#128279;](https://habrahabr.ru/post/268113/) [&#128279;] </br>
+Безопасное криптопрограммирование [&#128279;](https://habrahabr.ru/post/268113/) </br>
 Современная операционная система: что надо знать разработчику [&#128279;](https://habrahabr.ru/company/oleg-bunin/blog/310848/) </br>
 Попытки сделать изучение алгоритмов поиска пути проще [&#128279;](https://habrahabr.ru/post/323650/) </br>
+Топ 8 лучших ресурсов для практики программирования  [&#128279;](https://habr.com/post/414009) </br>
+Откровения аварийного инженера [&#128279;](https://habr.com/post/354444/) </br>
+Недостатки GNU LGPL v3 vs. GNU LGPL v2.1 [&#128279;](https://softwareengineering.stackexchange.com/questions/114588/downsides-of-gnu-lgpl-v3-vs-gnu-lgpl-v2-1) </br>
+LD_PRELOAD ptrace [&#128279;](http://mips42.altervista.org/ld_preload.php) </br>
+
 
