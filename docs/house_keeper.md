@@ -1,4 +1,5 @@
 # Домовой
 
 Мобильные подписки. Возвращаем деньги. МегаФон. [&#128279;](https://pikabu.ru/story/mobilnyie_podpiski_vozvrashchaem_dengi_megafon_2948091)
-
+Братья Райт: первые патентные тролли [&#128279;](  https://habr.com/ru/post/476374/    ) </br>
+Как не нужно составлять согласие на обработку персональных данных [&#128279;]( https://habr.com/ru/company/ic-dv/blog/474116/  ) </br>

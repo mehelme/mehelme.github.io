@@ -6,6 +6,7 @@
 Проверка строки на число:  <code>if [ "$var" -eq "$var" ] 2>/dev/null; then; echo IS NIMBER fi</code></br>
 Сравнение чисел: <code>if (( a > b )); then ... if [ "$a" -gt "$b" ]; then ...</code></br>
 Деление: <code>echo $((x / y))</code></br>
+Хаки SSH [&#128279;]( https://www.shellhacks.com/start-gui-application-remote-computer-ssh/) </br>
 
 ## Статьи
 Добавить "ДатаВремя" к каждой строке [&#128279;](http://www.commandlinefu.com/commands/view/7156/monitor-a-file-with-tail-with-timestamps-added)

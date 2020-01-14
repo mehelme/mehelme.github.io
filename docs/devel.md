@@ -26,6 +26,8 @@ libboost-all-dev libboost-all-dev
 Встраивание программы в окно приложения qt  [&#128279;](https://www.linux.org.ru/forum/development/12400079) </br>
 QtQuick/QML в качестве игрового UI [&#128279;](https://habrahabr.ru/post/303722/) </br>
 How Qt Signals and Slots Work [&#128279;](https://woboq.com/blog/how-qt-signals-slots-work.html) [&#128279;](https://woboq.com/blog/how-qt-signals-slots-work-part2-qt5.html) [&#128279;](https://woboq.com/blog/how-qt-signals-slots-work-part3-queuedconnection.html) </br>
+The Eight Rules of Multithreaded Qt [&#128279;](https://www.kdab.com/the-eight-rules-of-multithreaded-qt/)
+Правильная работа с потоками в Qt [&#128279;]( https://habr.com/ru/post/467261/  ) </br>
 
 
 ## Android
@@ -46,10 +48,13 @@ Release Mode Debugging [&#128279;](http://accu.org/index.php/journals/1412) </br
 ## Базы данных
 Uber — причины перехода с Postgres на MySQL [&#128279;](https://habrahabr.ru/company/centosadmin/blog/322624/) </br>
 How to speed up insertion performance in PostgreSQL [&#128279;](<http://stackoverflow.com/questions/12206600/how-to-speed-up-insertion-performance-in-postgresql) </br>
+Полезные трюки PostgreSQL [&#128279;]( https://habr.com/ru/post/280912/  ) </br>
+Оптимизация sum в PostgreSQL [&#128279;]( https://habr.com/ru/post/186788/  ) </br>
 
 ## Наборы ссылок
 Более 350 бесплатных инструментов для разработчиков [&#128279;](https://habrahabr.ru/company/it-grad/blog/270589/) </br>
 101 бесплатный сервис для дизайнера [&#128279;](https://habrahabr.ru/company/pixli/blog/325866/) </br>
+Таблица символов Юникода [&#128279;](https://unicode-table.com/ru/) </br>
 
 ## C++
 Как enum доступным всем сделать, да в мета-тип записать [&#128279;](https://habrahabr.ru/post/314486/) </br>
@@ -58,6 +63,11 @@ How to speed up insertion performance in PostgreSQL [&#128279;](<http://stackove
 Правильный *_cast [&#128279;](https://stackoverflow.com/questions/332030/when-should-static-cast-dynamic-cast-const-cast-and-reinterpret-cast-be-used) </br>
 Особенности вызова функций в С++ [&#128279;](https://habr.com/post/414443/) </br>
 Доклады с весенней конференции С++ Russia 2018 [&#128279;](https://habr.com/company/pvs-studio/blog/418645/) </br>
+Сказ об опасном std::enable_shared_from_this [&#128279;]( https://habr.com/ru/post/471326/  ) </br>
+CRTP. Static polymorphism [&#128279;]( https://habr.com/ru/post/210894/  ) </br>
+Шпаргалка по аббревиатурам C++ и не только. Часть 1 и 2 
+[&#128279;]( https://habr.com/ru/post/470265/  ) [&#128279;]( https://habr.com/ru/post/470317/  ) </br>
+
 
 ## C++ Blog
 Jonathan Boccara's blog [&#128279;](https://www.fluentcpp.com/) </br>

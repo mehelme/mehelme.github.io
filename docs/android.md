@@ -13,7 +13,11 @@
 Freeing my tablet (Android hacking, SW and HW) [&#128279;](https://www.thanassis.space/android.html)</br>
 Ломаем Android. Как глубока кроличья нора? [&#128279;](https://habrahabr.ru/post/320150/>)</br>
 Cохранение фото на SD карту [&#128279;](https://opencamera.sourceforge.io/help.html)</br>
-
+Кросс-компиляция (mc)
+[&#128279;](http://tetraquark.ru/archives/10)
+[&#128279;](http://dp.nonoo.hu/cross-compiling-mc/)
+[&#128279;](https://zwyuan.github.io/2016/07/17/cross-compile-glib-for-android/)
+Cron и добавление скрипта в автозапуск [&#128279;]( https://habr.com/ru/post/468337/ ) </br>
 
 ## Удаление системных приложений 
 Тема 4pda [&#128279;](http://4pda.ru/forum/index.php?showtopic=236256) </br>

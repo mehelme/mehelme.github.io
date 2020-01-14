@@ -12,6 +12,7 @@ How to record output to speakers [&#128279;](https://askubuntu.com/questions/229
 Отправка почты из командной строки [&#128279;](https://blog.edmdesigner.com/send-email-from-linux-command-line/) [&#128279;](https://sites.google.com/site/admcrib/home/ssmtp-nastrojka-dla-yandex-ru) </br>
 Загрузка ядра Linux. Часть 1 [&#128279;](https://habr.com/post/428664/) [&#128279;](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html) </br>
 Магия SSH [&#128279;](https://habr.com/post/331348/) </br>
+Выявляем процессы с дисковой активностью в Linux [&#128279;]( https://habr.com/ru/post/476414/ ) </br>
 
 ## Настройка kubuntu
 1. Настройка статический ip
