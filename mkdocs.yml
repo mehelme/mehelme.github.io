@@ -5,6 +5,7 @@ nav:
     - Linux: linux.md
     - Bush: bash.md
     - Разработка: devel.md
+    - Ассемблер: asm.md
     - Андроид: android.md
     - Баги: bugs.md
     - Безопасность: secur.md
@@ -12,6 +13,7 @@ nav:
     - Железо: hard.md
     - Картинки: pics.md
     - Популярная наука: pop_sciense.md
+    - Работа: work.md
     - Шахматы: chess.md
     - Юмор: humor.md
     - Windows: windows.md

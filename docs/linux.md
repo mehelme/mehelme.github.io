@@ -10,8 +10,10 @@ ssh sudo: no tty present and no askpass program specified [&#128279;](https://st
 How to record output to speakers [&#128279;](https://askubuntu.com/questions/229352/how-to-record-output-to-speakers) </br>
 Шифрование диска [&#128279;](https://stackoverflow.com/questions/19713918/how-to-load-luks-passphrase-from-usb-falling-back-to-keyboard) [&#128279;](https://gist.github.com/martijnvermaat/2726386) </br>
 Отправка почты из командной строки [&#128279;](https://blog.edmdesigner.com/send-email-from-linux-command-line/) [&#128279;](https://sites.google.com/site/admcrib/home/ssmtp-nastrojka-dla-yandex-ru) </br>
+Загрузка ядра Linux. Часть 1 [&#128279;](https://habr.com/post/428664/) [&#128279;](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html) </br>
+Магия SSH [&#128279;](https://habr.com/post/331348/) </br>
 
-## Установка и настройка kubuntu 1804
+## Настройка kubuntu
 1. Настройка статический ip
 1. Установка mc (конфиги)
 1. Настройка шрифта konsole

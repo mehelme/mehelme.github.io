@@ -41,6 +41,7 @@ Release Mode Debugging [&#128279;](http://accu.org/index.php/journals/1412) </br
 Запуск gdb с аргументами: `gdb --args executablename arg1 arg2 arg3` </br>
 Показать стеки всех потоков gdb: `thread apply all bt` </br>
 Адрес падения в строку программы [&#128279;](https://stackoverflow.com/questions/7648642/how-to-use-the-addr2line-command-in-linux) </br>
+Профилировщик размера приложения [&#128279;](https://github.com/google/bloaty) </br>
 
 ## Базы данных
 Uber — причины перехода с Postgres на MySQL [&#128279;](https://habrahabr.ru/company/centosadmin/blog/322624/) </br>
@@ -55,10 +56,18 @@ How to speed up insertion performance in PostgreSQL [&#128279;](<http://stackove
 Возможности алгоритмов C++ на примере задачи сортировки [&#128279;](http://artlang.net/article/view/10/) </br>
 Бестиарий С++. Справочник по загадочным персонажам [&#128279;](https://habrahabr.ru/company/mailru/blog/341584/) </br>
 Правильный *_cast [&#128279;](https://stackoverflow.com/questions/332030/when-should-static-cast-dynamic-cast-const-cast-and-reinterpret-cast-be-used) </br>
+Особенности вызова функций в С++ [&#128279;](https://habr.com/post/414443/) </br>
+Доклады с весенней конференции С++ Russia 2018 [&#128279;](https://habr.com/company/pvs-studio/blog/418645/) </br>
+
+## C++ Blog
+Jonathan Boccara's blog [&#128279;](https://www.fluentcpp.com/) </br>
+Herb Sutter on software development [&#128279;](https://herbsutter.com/) </br>
+Scott Meyers Activities And Interests [&#128279;](http://scottmeyers.blogspot.com/) </br>
 
 ## Алгоритмы
 Интересная задача на собеседовании [&#128279;](http://artlang.net/article/view/6/) </br>
 Сортировки gihub [&#128279;](https://github.com/Morwenn/cpp-sort) </br>
+«Магическая константа» 0x5f3759df [&#128279;](https://habrahabr.ru/company/infopulse/blog/336110/) </br>
 
 ## EFI
 Programming for EFI [&#128279;](http://www.rodsbooks.com/efi-programming/hello.html) </br>
@@ -77,5 +86,7 @@ Adding-a-driver-to-a-UEFI-firmware [&#128279;](https://github.com/pbatard/efifs/
 Откровения аварийного инженера [&#128279;](https://habr.com/post/354444/) </br>
 Недостатки GNU LGPL v3 vs. GNU LGPL v2.1 [&#128279;](https://softwareengineering.stackexchange.com/questions/114588/downsides-of-gnu-lgpl-v3-vs-gnu-lgpl-v2-1) </br>
 LD_PRELOAD ptrace [&#128279;](http://mips42.altervista.org/ld_preload.php) </br>
+Интересная задачка на С (Вывод чисел от n до 0, не используя сравнения) [&#128279;](https://habr.com/post/428343) </br>
+Миллион видеозвонков в сутки [&#128279;](https://habr.com/company/oleg-bunin/blog/428217) </br>
 
 

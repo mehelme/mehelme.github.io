@@ -7,3 +7,4 @@
 Удаление встроенных в Windows 10 приложений [&#128279;](https://virtuallyinclined.com/2018/02/10/windows-10-appx-removal-script-update/)
 [&#128279;](https://superuser.com/questions/942418/how-do-you-forcefully-remove-apps-in-windows-10)</br>
 Отключить "Поиск" [&#128279;](https://www.howtogeek.com/howto/10246/how-to-disable-search-in-windows-7/) </br>
+Замедляем Windows [&#128279;](https://habr.com/post/427303/ https://habr.com/post/432076/) </br>
