@@ -8,7 +8,7 @@ nav:
     - Ассемблер: asm.md
     - Андроид: android.md
     - Баги: bugs.md
-    - Поиск багов: hack.md
+    - Исследование: hack.md
     - Безопасность: secur.md
     - Документация: docs.md
     - Железо: hard.md
@@ -20,6 +20,7 @@ nav:
     - Windows: windows.md
     - Разработка Windows: windows_devel.md
     - Домовой: house_keeper.md
+    - Калуга: kaluga.md
 
 theme:
   custom_dir: 'theme'

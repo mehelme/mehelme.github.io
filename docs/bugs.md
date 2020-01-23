@@ -12,3 +12,5 @@ Qt automatic mnemonics & [&#128279;](https://stackoverflow.com/questions/3268815
 Использование похожих Unicode-символов для обхода аутентификации [&#128279;](https://www.opennet.ru/opennews/art.shtml?num=52047) </br>
 QtСreator размер шрифта [&#128279;](https://bugreports.qt.io/browse/QTCREATORBUG-22536) </br>
 QtСreator история файлов [&#128279;](https://bugreports.qt.io/browse/QTCREATORBUG-23015) </br>
+Grub2 Authentication 0-Day [&#128279;](http://hmarco.org/bugs/CVE-2015-8370-Grub2-authentication-bypass.html) </br>
+Cryptsetup Initrd root Shell [&#128279;](http://hmarco.org/bugs/CVE-2016-4484/CVE-2016-4484_cryptsetup_initrd_shell.html) </br>

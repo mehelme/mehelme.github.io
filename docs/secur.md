@@ -11,3 +11,4 @@ Exploit Exercises или ещё один сайт для любителей Vuln
 Справочник законодательства РФ в области информационной безопасности [&#128279;](https://habr.com/post/432466/)</br>
 Доступно о криптографии на эллиптических кривых [&#128279;](https://habrahabr.ru/post/335906/)</br>
 Уязвимость скриптов инициализации Cryptsetup [&#128279;](https://habrahabr.ru/post/315376/)</br>
+ESNI и DNS over HTTPS [&#128279;](https://www.opennet.ru/tips/3086_esni_doh_dns_https.shtml) [&#128279;](https://habr.com/ru/post/468603/) </br>
