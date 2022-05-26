@@ -640,26 +640,26 @@
 
 <h1 id="android">Android</h1>
 <h2 id="_1">В работе</h2>
-<p>История уведомлений: <code>android.settings.notification.history.NotificationHistoryActivity</code></br></p>
+<p>История уведомлений: <code>android.settings.notification.history.NotificationHistoryActivity</code><br></p>
 <h2 id="_2">Команды</h2>
-<p>Выключить selinux: <code>setenforce 0</code></br>
-Список пакетов:  <code>pm list packages -f</code></br>
-Версия пакета (shell): <code>dumpsys package ru.yandex.yandexmaps | grep version</code></br>
-Версия пакета (sdk): <code>aapt dump badging /data/app/ru.yandex.yandexmaps-1.apk | grep package</code></br>
-Получить контакты:<code>content query --uri content://contacts/phones --projection number:name --sort "name ASC"| awk -F= '{gsub(/[-() name]/,"",$2);print $2" "$3}'</code></br></p>
+<p>Выключить selinux: <code>setenforce 0</code><br>
+Список пакетов:  <code>pm list packages -f</code><br>
+Версия пакета (shell): <code>dumpsys package ru.yandex.yandexmaps | grep version</code><br>
+Версия пакета (sdk): <code>aapt dump badging /data/app/ru.yandex.yandexmaps-1.apk | grep package</code><br>
+Получить контакты:<code>content query --uri content://contacts/phones --projection number:name --sort "name ASC"| awk -F= '{gsub(/[-() name]/,"",$2);print $2" "$3}'</code><br></p>
 <h2 id="_3">Статьи</h2>
-<p>Решение проблемы быстрого расхода батареи из-за MediaServer <a href="https://ekorshunov.blogspot.ru/2015/02/android-mediaserver.html">&#128279;</a></br>
-Скрипты на shell под Android 4pda <a href="https://4pda.ru/forum/index.php?showtopic=508427">&#128279;</a></br>
-Freeing my tablet (Android hacking, SW and HW) <a href="https://www.thanassis.space/android.html">&#128279;</a></br>
-Ломаем Android. Как глубока кроличья нора? <a href="https://habrahabr.ru/post/320150/&gt;">&#128279;</a></br>
-Cохранение фото на SD карту <a href="https://opencamera.sourceforge.io/help.html">&#128279;</a></br>
+<p>Решение проблемы быстрого расхода батареи из-за MediaServer <a href="https://ekorshunov.blogspot.ru/2015/02/android-mediaserver.html">&#128279;</a><br>
+Скрипты на shell под Android 4pda <a href="https://4pda.ru/forum/index.php?showtopic=508427">&#128279;</a><br>
+Freeing my tablet (Android hacking, SW and HW) <a href="https://www.thanassis.space/android.html">&#128279;</a><br>
+Ломаем Android. Как глубока кроличья нора? <a href="https://habrahabr.ru/post/320150/&gt;">&#128279;</a><br>
+Cохранение фото на SD карту <a href="https://opencamera.sourceforge.io/help.html">&#128279;</a><br>
 Кросс-компиляция (mc)
 <a href="http://tetraquark.ru/archives/10">&#128279;</a>
 <a href="http://dp.nonoo.hu/cross-compiling-mc/">&#128279;</a>
-<a href="https://zwyuan.github.io/2016/07/17/cross-compile-glib-for-android/">&#128279;</a> </br>
-Cron и добавление скрипта в автозапуск <a href="https://habr.com/ru/post/468337/">&#128279;</a> </br></p>
+<a href="https://zwyuan.github.io/2016/07/17/cross-compile-glib-for-android/">&#128279;</a> <br>
+Cron и добавление скрипта в автозапуск <a href="https://habr.com/ru/post/468337/">&#128279;</a> <br></p>
 <h2 id="_4">Удаление системных приложений</h2>
-<p>Тема 4pda <a href="http://4pda.ru/forum/index.php?showtopic=236256">&#128279;</a> </br></p>
+<p>Тема 4pda <a href="http://4pda.ru/forum/index.php?showtopic=236256">&#128279;</a> <br></p>
 <pre><code>setenforce 0
 mount -o rw,remount /system
 mount -o rw,remount /
