@@ -10,17 +10,7 @@
 Git снизу вверх [&#128279;](https://habrahabr.ru/company/intel/blog/344962/) </br>
 
 ## Qt
-### Сборка
-Сборка на ubuntu (16.04, 18.04), wiki [&#128279;](https://wiki.qt.io/Building_Qt_5_from_Git)
-```bash
-sudo apt-get install libfontconfig1-dev libfreetype6-dev libx11-dev libxext-dev \
-libxfixes-dev libxi-dev libxrender-dev libxcb1-dev libx11-xcb-dev libxcb-glx0-dev \
-apt-get install build-essential perl python git libpcre2-dev libssl-dev \
-libjpeg-dev libpulse-dev libcups2-dev libpqxx-dev \
-libboost-all-dev libboost-all-dev 
-```
-
-### Статьи
+heaptrack [&#128279;](https://github.com/KDE/heaptrack)
 Описание механизмов fork в Qt [&#128279;](https://www.macieira.org/blog/2012/07/forkfd-part-4-proposed-solutions/) </br>
 Разработка MapReduce в Qt Concurrent  [&#128279;](https://habrahabr.ru/post/311090/) </br>
 Встраивание программы в окно приложения qt  [&#128279;](https://www.linux.org.ru/forum/development/12400079) </br>
@@ -35,8 +25,11 @@ The Eight Rules of Multithreaded Qt [&#128279;](https://www.kdab.com/the-eight-r
 Играем в APK-гольф. Уменьшение размера файлов Android APK на 99,9% [&#128279;](https://habrahabr.ru/post/339938/) </br>
 
 ## Linux
+Контроль расхода памяти:
+malt [&#128279;](https://memtt.github.io/malt/index.html)
 Creating Really Teensy ELF Executables [&#128279;](http://www.muppetlabs.com/~breadbox/software/tiny/teensy.html) </br>
 Минимизация потерь ФС при внезапном выключении [&#128279;](https://www.linux.org.ru/forum/development/12058078) </br>
+Digitally Signing [&#128279;](https://hussainaliakbar.github.io/digitally-signing-and-verification-of-debian-packages-with-dpkg-sig) </br>
 
 ## Отладка
 Release Mode Debugging [&#128279;](http://accu.org/index.php/journals/1412) </br>
@@ -65,7 +58,7 @@ How to speed up insertion performance in PostgreSQL [&#128279;](<http://stackove
 Доклады с весенней конференции С++ Russia 2018 [&#128279;](https://habr.com/company/pvs-studio/blog/418645/) </br>
 Сказ об опасном std::enable_shared_from_this [&#128279;]( https://habr.com/ru/post/471326/  ) </br>
 CRTP. Static polymorphism [&#128279;]( https://habr.com/ru/post/210894/  ) </br>
-Шпаргалка по аббревиатурам C++ и не только. Часть 1 и 2 
+Шпаргалка по аббревиатурам C++ и не только. Часть 1 и 2
 [&#128279;]( https://habr.com/ru/post/470265/  ) [&#128279;]( https://habr.com/ru/post/470317/  ) </br>
 
 
@@ -85,6 +78,9 @@ Programming for EFI [&#128279;](http://www.rodsbooks.com/efi-programming/hello.h
 Adding-a-driver-to-a-UEFI-firmware [&#128279;](https://github.com/pbatard/efifs/wiki/Adding-a-driver-to-a-UEFI-firmware) </br>
 Пишем DXE-драйвер для снятия скриншотов с BIOS Setup [&#128279;](https://habrahabr.ru/post/274463/) </br>
 
+# JavaScript
+7 проектов на GitHub [&#128279;](https://proglib.io/p/7-proektov-na-github-kotorye-neobhodimy-kazhdomu-javascript-razrabotchiku-2021-07-09) </br>
+
 ## Статьи
 Особенности протокола в IO-играх [&#128279;](https://habrahabr.ru/post/323466/) </br>
 Как я сделал самый быстрый ресайз изображений [&#128279;](https://habrahabr.ru/post/321744/) </br>
@@ -97,6 +93,7 @@ Adding-a-driver-to-a-UEFI-firmware [&#128279;](https://github.com/pbatard/efifs/
 Недостатки GNU LGPL v3 vs. GNU LGPL v2.1 [&#128279;](https://softwareengineering.stackexchange.com/questions/114588/downsides-of-gnu-lgpl-v3-vs-gnu-lgpl-v2-1) </br>
 LD_PRELOAD ptrace [&#128279;](http://mips42.altervista.org/ld_preload.php) </br>
 Интересная задачка на С (Вывод чисел от n до 0, не используя сравнения) [&#128279;](https://habr.com/post/428343) </br>
-Миллион видеозвонков в сутки [&#128279;](https://habr.com/company/oleg-bunin/blog/428217) </br>
+Миллион видеозвонков в сутки [&#128279;](https://habr.com/company/oleg-bunin/blog/428217)</br>
+programming-idioms.org [&#128279;](https://programming-idioms.org)</br>
 
 

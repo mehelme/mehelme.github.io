@@ -1,6 +1,7 @@
 # Windows
 
-Режим бога: Создать каталог с именем "GM.{ED7BA470-8E54-465E-825C-99712043E01C}"
+Win32-OpenSSH [&#128279;](https://github.com/PowerShell/Win32-OpenSSH)</br>
+Режим бога: Создать каталог с именем "GM.{ED7BA470-8E54-465E-825C-99712043E01C}"</br>
 Удаленный доступ [&#128279;](https://www.mysysadmintips.com/windows/clients/545-multiple-rdp-remote-desktop-sessions-in-windows-10)
 [&#128279;](https://blog.syskit.com/credssp-required-by-server-solutions) </br>
 Отключить Защитник Windows 10 [&#128279;](https://www.comss.ru/page.php?id=2698)</br>

@@ -8,11 +8,12 @@ nav:
     - Ассемблер: asm.md
     - Андроид: android.md
     - Баги: bugs.md
-    - Исследование: hack.md
+    - Хакинг: hack.md
     - Безопасность: secur.md
     - Документация: docs.md
     - Железо: hard.md
     - Картинки: pics.md
+    - Пикабу: pikabu.md
     - Популярная наука: pop_sciense.md
     - Работа: work.md
     - Шахматы: chess.md
@@ -21,6 +22,7 @@ nav:
     - Разработка Windows: windows_devel.md
     - Домовой: house_keeper.md
     - Калуга: kaluga.md
+    - Цитаты: citation.md
 
 theme:
   custom_dir: 'theme'
