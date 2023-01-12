@@ -24,6 +24,10 @@ The Eight Rules of Multithreaded Qt [&#128279;](https://www.kdab.com/the-eight-r
 59 способов монетизировать вашу инди-игру [&#128279;](https://habrahabr.ru/post/322916/) <br>
 Играем в APK-гольф. Уменьшение размера файлов Android APK на 99,9% [&#128279;](https://habrahabr.ru/post/339938/) <br>
 How to clear gradle cache [&#128279;](https://stackoverflow.com/questions/23025433/how-to-clear-gradle-cache) <br>
+Minimal app [&#128279;](https://github.com/ajinasokan/smallest-android-app-from-scratch)
+[&#128279;](https://github.com/csells/min-kotlin-android) [&#128279;](https://github.com/QuoInsight/minimal.apk)
+[&#128279;](https://github.com/codepath/android_guides/wiki/Sample-Android-Apps)
+[&#128279;](https://github.com/czak/minimal-android-project)
 
 ## Linux
 Контроль расхода памяти:
