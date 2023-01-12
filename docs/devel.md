@@ -16,13 +16,14 @@ heaptrack [&#128279;](https://github.com/KDE/heaptrack)
 Встраивание программы в окно приложения qt  [&#128279;](https://www.linux.org.ru/forum/development/12400079) <br>
 QtQuick/QML в качестве игрового UI [&#128279;](https://habrahabr.ru/post/303722/) <br>
 How Qt Signals and Slots Work [&#128279;](https://woboq.com/blog/how-qt-signals-slots-work.html) [&#128279;](https://woboq.com/blog/how-qt-signals-slots-work-part2-qt5.html) [&#128279;](https://woboq.com/blog/how-qt-signals-slots-work-part3-queuedconnection.html) <br>
-The Eight Rules of Multithreaded Qt [&#128279;](https://www.kdab.com/the-eight-rules-of-multithreaded-qt/)
-Правильная работа с потоками в Qt [&#128279;]( https://habr.com/ru/post/467261/  ) <br>
-
+The Eight Rules of Multithreaded Qt [&#128279;](https://www.kdab.com/the-eight-rules-of-multithreaded-qt/) <br>
+Правильная работа с потоками в Qt [&#128279;](https://habr.com/ru/post/467261/) <br>
+Доступ к исходникам Qt при отладке [&#128279;](https://unix.stackexchange.com/questions/202374/how-to-debug-an-installed-qt5-library-with-gdb) [&#128279;](https://wiki.ubuntu.com/Debug%20Symbol%20Packages) [&#128279;](https://www.cyberciti.biz/faq/how-to-get-source-code-of-package-using-the-apt-command-on-debian-or-ubuntu/)<br>
 
 ## Android
 59 способов монетизировать вашу инди-игру [&#128279;](https://habrahabr.ru/post/322916/) <br>
 Играем в APK-гольф. Уменьшение размера файлов Android APK на 99,9% [&#128279;](https://habrahabr.ru/post/339938/) <br>
+How to clear gradle cache [&#128279;](https://stackoverflow.com/questions/23025433/how-to-clear-gradle-cache) <br>
 
 ## Linux
 Контроль расхода памяти:
@@ -78,8 +79,11 @@ Programming for EFI [&#128279;](http://www.rodsbooks.com/efi-programming/hello.h
 Adding-a-driver-to-a-UEFI-firmware [&#128279;](https://github.com/pbatard/efifs/wiki/Adding-a-driver-to-a-UEFI-firmware) <br>
 Пишем DXE-драйвер для снятия скриншотов с BIOS Setup [&#128279;](https://habrahabr.ru/post/274463/) <br>
 
-# JavaScript
+## JavaScript
 7 проектов на GitHub [&#128279;](https://proglib.io/p/7-proektov-na-github-kotorye-neobhodimy-kazhdomu-javascript-razrabotchiku-2021-07-09) <br>
+
+## Python
+How to Update All Python Packages [&#128279;](https://www.activestate.com/resources/quick-reads/how-to-update-all-python-packages/) <br>
 
 ## Статьи
 Особенности протокола в IO-играх [&#128279;](https://habrahabr.ru/post/323466/) <br>
@@ -95,5 +99,5 @@ LD_PRELOAD ptrace [&#128279;](http://mips42.altervista.org/ld_preload.php) <br>
 Интересная задачка на С (Вывод чисел от n до 0, не используя сравнения) [&#128279;](https://habr.com/post/428343) <br>
 Миллион видеозвонков в сутки [&#128279;](https://habr.com/company/oleg-bunin/blog/428217)<br>
 programming-idioms.org [&#128279;](https://programming-idioms.org)<br>
-
-
+В поисках LD_PRELOAD [&#128279;](https://habr.com/ru/post/479858/) <br>
+Особенности профилирования программ на C++ [&#128279;](https://habr.com/ru/post/482040/) <br>
